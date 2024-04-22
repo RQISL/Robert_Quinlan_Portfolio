@@ -1,0 +1,28 @@
+http://getbootstrap.com/
+http://markdalgleish.com/projects/stellar.js/
+http://vincentgarreau.com/particles.js/
+http://isotope.metafizzy.co/
+http://flickity.metafizzy.co/
+http://fontawesome.io/
+https://modernizr.com/
+https://loading.io/
+https://daneden.github.io/animate.css/
+http://realfavicongenerator.net/
+http://www.mattboldt.com/demos/typed-js/
+http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+https://webdesign.tutsplus.com/series/a-z-of-web-typography--webdesign-11706
+https://www.w3schools.com/howto/howto_css_image_overlay.asp
+https://www.w3schools.com/graphics/google_maps_intro.asp
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_eff_animate_smoothscroll
+http://blog.teamtreehouse.com/create-ajax-contact-form
+https://spin.atomicobject.com/2015/05/31/scroll-anmiation-css-waypoints/
+https://snazzymaps.com/style/5/greyscale
+
+
+Template personal Portfolio
+
+https://themeforest.net/search/brax
+
+Add Video link by youtube tutorial
+
+https://codepen.io/rajashekar2012/pen/dMrodq
