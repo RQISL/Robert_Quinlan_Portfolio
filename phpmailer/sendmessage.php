@@ -90,7 +90,7 @@ try {
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
-    $receivemessage = 'Name: ' .$name. '<br>'; '<br>Email: ' .$email. '<br>'; '<br>Message: ' .$message;
+    $receivemessage = 'Name: ' .$name. '<br>' '<br>Email: ' .$email. '<br>' '<br>Message: ' .$message;
 
     //Recipients
     $mail->setFrom('quinlanrobert40@gmail.com', 'Robert Quinlan');
