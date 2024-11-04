@@ -90,11 +90,11 @@ try {
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
-    $receivemessage = 'This is message by <b>' .$name. 'and here is message: <br>' .$message;
+    $receivemessage = 'This is message by <b>' .$name. ' and here is message: <br>' .$message;
 
     //Recipients
     $mail->setFrom('quinlanrobert40@gmail.com', 'Robert Quinlan');
-    $mail->addAddress('quinlanrobert40@gmail.com', 'Robert Quinlan');     //Add a recipient
+    $mail->addAddress('', '');     //Add a recipient
    
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
