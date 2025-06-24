@@ -109,7 +109,7 @@ try {
     <p>Thank you for your message. I will get back to you shortly.</p>
     <p>Kind Regards</p>
     <p class="space-buttom">Robert Quinlan</p>
-    <a class="btn btn-primary" href="https://robert-quinlan-resume-c64b50165280.herokuapp.com/">Ok</a>
+    <a class="btn btn-primary" href="https://robert-quinlan-cv-b1d565eee35f.herokuapp.com/">Ok</a>
     </div>
     ';
 } catch (Exception $e) {
